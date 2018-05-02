@@ -1,6 +1,5 @@
 public class PrintingLikeBoss {
 
-    // copy or rewrite the method of Assignment 39.1 here
     public static void printStars(int amount) {
         String stars = "";
         while (amount >= 1) {
@@ -53,7 +52,6 @@ public class PrintingLikeBoss {
     }
 
     public static void main(String[] args) {
-        // Tests do not use main, yo can write code here freely!
 
         printTriangle(5);
         System.out.println("---");
